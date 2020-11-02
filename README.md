@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smd-arch-qt5
+Credit: https://github.com/arcolinux/
